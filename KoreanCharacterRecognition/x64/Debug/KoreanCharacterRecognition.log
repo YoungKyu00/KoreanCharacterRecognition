@@ -1,0 +1,12 @@
+﻿  KoreanCharacterRecognition.cpp
+c:\users\young\documents\visual studio 2017\projects\koreancharacterrecognition\koreancharacterrecognition\koreancharacterrecognition.cpp(98): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\young\documents\visual studio 2017\projects\koreancharacterrecognition\koreancharacterrecognition\koreancharacterrecognition.cpp(221): warning C4101: 'minVal' :참조되지 않은 지역 변수입니다.
+c:\users\young\documents\visual studio 2017\projects\koreancharacterrecognition\koreancharacterrecognition\koreancharacterrecognition.cpp(254): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\young\documents\visual studio 2017\projects\koreancharacterrecognition\koreancharacterrecognition\koreancharacterrecognition.cpp(255): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\young\documents\visual studio 2017\projects\koreancharacterrecognition\koreancharacterrecognition\koreancharacterrecognition.cpp(256): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\young\documents\visual studio 2017\projects\koreancharacterrecognition\koreancharacterrecognition\koreancharacterrecognition.cpp(257): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\young\documents\visual studio 2017\projects\koreancharacterrecognition\koreancharacterrecognition\koreancharacterrecognition.cpp(301): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\young\documents\visual studio 2017\projects\koreancharacterrecognition\koreancharacterrecognition\koreancharacterrecognition.cpp(302): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\young\documents\visual studio 2017\projects\koreancharacterrecognition\koreancharacterrecognition\koreancharacterrecognition.cpp(303): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  KoreanCharacterRecognition.vcxproj -> c:\users\young\documents\visual studio 2017\Projects\KoreanCharacterRecognition\x64\Debug\KoreanCharacterRecognition.exe
+  KoreanCharacterRecognition.vcxproj -> c:\users\young\documents\visual studio 2017\Projects\KoreanCharacterRecognition\x64\Debug\KoreanCharacterRecognition.pdb (Partial PDB)
